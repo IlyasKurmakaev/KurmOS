@@ -147,7 +147,7 @@ int main() {
 
 
         }
-        cout << endl << "IF TO YOU LIKE THIS OS, DONATE AT QIVI WALLET AT NUMBER 89168186587" << endl;
+        cout << endl << "IF YOU LIKE THIS OS, DONATE AT QIVI WALLET AT NUMBER 89168186587" << endl;
         int antiCloseWindow;
         cout << "to back in work table enter 1   \   to close programm enter 2" << endl;
         cin >> again;
